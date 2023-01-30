@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE JO BOT'
+global.ownername = 'ItsMeKha!'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['+7777777777']
-global.premium = ['+777777777']
-global.packname = 'ERORER'
-global.author = 'WhatsApp Service'
+global.owner = ['+62882006212045']
+global.premium = ['+62882006212045']
+global.packname = 'ERROR-404'
+global.author = 'WhatsApp Support'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
